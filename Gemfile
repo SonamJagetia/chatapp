@@ -52,4 +52,4 @@ gem 'bootstrap-sass'
 
 gem 'devise'
 
-gem 'redis'
+gem 'redis', '3.2.0'
